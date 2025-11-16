@@ -1,0 +1,12 @@
+#path: ../datasets/roboflow
+path: /Users/lvyu/Documents/GitHub/5-OCR-NUHS/1-data/blood_pressure_monitors.v2i.yolov8-obb
+
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: dia
+  1: pul
+  2: ssd
+  3: sys
